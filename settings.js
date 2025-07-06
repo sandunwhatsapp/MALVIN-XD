@@ -17,7 +17,7 @@ MODE: process.env.MODE || "public",
 
 LINK_WHITELIST: "youtube.com,github.com",
 
-    LINK_WARN_LIMIT: 3, // Number of warnings before action
+    LINK_WARN_LIMIT: 1, // Number of warnings before action
 
     LINK_ACTION: "kick", // "kick", "mute", or "none"
 
@@ -49,7 +49,7 @@ LINK_WHITELIST: "youtube.com,github.com",
      MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/rxoj5c.jpeg",
 // add custom menu and mention reply image url
 
-       ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/rxoj5c.jpeg",
+       ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/rxoj5c",
 // add img for alive msg
 
         LIVE_MSG: process.env.LIVE_MSG || "> ʙᴏᴛ ɪs sᴘᴀʀᴋɪɴɢ ᴀᴄᴛɪᴠᴇ ᴀɴᴅ ᴀʟɪᴠᴇ\n\n\nᴋᴇᴇᴘ ᴜsɪɴɢ ✦sandun xᴅ✦ ғʀᴏᴍ sandun ᴛᴇᴄʜ ɪɴᴄ⚡\n\n\n*© ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ\n\n>sandun -XD",
